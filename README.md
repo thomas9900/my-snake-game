@@ -13,9 +13,9 @@ Make sure you have the following dependencies installed:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/ts-project1.git
+   git clone https://github.com/thomas9900/my-snake-game.git
 
-    cd ts-project1
+   cd my-snake-game
     ```
 2. Install the dependencies:
 
